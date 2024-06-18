@@ -1,0 +1,61 @@
+{
+  "student": [
+    {
+      "id": 5,
+      "name": "Aman",
+      "course": "B-tech"
+    },
+    {
+      "name": "fvdd",
+      "course": "gdrg",
+      "id": 7
+    },
+    {
+      "name": "purn",
+      "course": "btech",
+      "id": 8
+    },
+    {
+      "name": "nakul",
+      "course": "bsc",
+      "id": 9
+    },
+    {
+      "name": "sachin",
+      "course": "bca",
+      "id": 10
+    },
+    {
+      "name": "anuj",
+      "course": "bsc",
+      "id": 11
+    },
+    {
+      "name": "sdssds",
+      "course": "mba",
+      "id": 12
+    }
+  ],
+  "uinfo": [
+    {
+      "uName": "Sachin",
+      "Pass": "123"
+    },
+    {
+      "uName": "Satyam",
+      "Pass": "1234"
+    },
+    {
+      "uName": "Kri",
+      "Pass": "12345"
+    },
+    {
+      "uName": "Anuj",
+      "Pass": "123456"
+    },
+    {
+      "uName": "Aman",
+      "Pass": "1234567"
+    }
+  ]
+}

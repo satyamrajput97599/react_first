@@ -1,0 +1,43 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Satyam",
+      "course": "MCA"
+    },
+    {
+      "id": 2,
+      "name": "Anuj",
+      "course": "MBA"
+    },
+    {
+      "id": 3,
+      "name": "Kripal",
+      "course": "Bsc"
+    },
+    {
+      "id": 4,
+      "name": "Sachin",
+      "course": "BCA"
+    },
+    {
+      "id": 5,
+      "name": "Aman",
+      "course": "B-tech"
+    },
+    {
+      "name": "gbhgh",
+      "id": 6
+    },
+    {
+      "name": "fvdd",
+      "course": "gdrg",
+      "id": 7
+    },
+    {
+      "name": "hh",
+      "course": "ygy",
+      "id": 8
+    }
+  ]
+}
